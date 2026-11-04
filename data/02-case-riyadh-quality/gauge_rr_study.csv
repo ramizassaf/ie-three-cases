@@ -1,0 +1,91 @@
+part,operator,trial,reading_nm,lab_reference_nm
+P01,S. Al-Qahtani,1,1.41,1.345
+P02,S. Al-Qahtani,1,1.869,1.763
+P03,S. Al-Qahtani,1,1.503,1.531
+P04,S. Al-Qahtani,1,1.356,1.353
+P05,S. Al-Qahtani,1,1.705,1.789
+P06,S. Al-Qahtani,1,1.875,1.791
+P07,S. Al-Qahtani,1,1.53,1.557
+P08,S. Al-Qahtani,1,1.351,1.394
+P09,S. Al-Qahtani,1,1.667,1.661
+P10,S. Al-Qahtani,1,1.505,1.576
+P01,R. Mathew,1,1.358,1.345
+P02,R. Mathew,1,1.762,1.763
+P03,R. Mathew,1,1.51,1.531
+P04,R. Mathew,1,1.361,1.353
+P05,R. Mathew,1,1.792,1.789
+P06,R. Mathew,1,1.761,1.791
+P07,R. Mathew,1,1.508,1.557
+P08,R. Mathew,1,1.394,1.394
+P09,R. Mathew,1,1.78,1.661
+P10,R. Mathew,1,1.739,1.576
+P01,J. Dela Cruz,1,1.264,1.345
+P02,J. Dela Cruz,1,1.726,1.763
+P03,J. Dela Cruz,1,1.416,1.531
+P04,J. Dela Cruz,1,1.263,1.353
+P05,J. Dela Cruz,1,1.59,1.789
+P06,J. Dela Cruz,1,1.669,1.791
+P07,J. Dela Cruz,1,1.409,1.557
+P08,J. Dela Cruz,1,1.25,1.394
+P09,J. Dela Cruz,1,1.518,1.661
+P10,J. Dela Cruz,1,1.545,1.576
+P01,S. Al-Qahtani,2,1.409,1.345
+P02,S. Al-Qahtani,2,1.757,1.763
+P03,S. Al-Qahtani,2,1.519,1.531
+P04,S. Al-Qahtani,2,1.377,1.353
+P05,S. Al-Qahtani,2,1.748,1.789
+P06,S. Al-Qahtani,2,1.775,1.791
+P07,S. Al-Qahtani,2,1.507,1.557
+P08,S. Al-Qahtani,2,1.338,1.394
+P09,S. Al-Qahtani,2,1.767,1.661
+P10,S. Al-Qahtani,2,1.591,1.576
+P01,R. Mathew,2,1.274,1.345
+P02,R. Mathew,2,1.779,1.763
+P03,R. Mathew,2,1.562,1.531
+P04,R. Mathew,2,1.445,1.353
+P05,R. Mathew,2,1.767,1.789
+P06,R. Mathew,2,1.712,1.791
+P07,R. Mathew,2,1.57,1.557
+P08,R. Mathew,2,1.404,1.394
+P09,R. Mathew,2,1.775,1.661
+P10,R. Mathew,2,1.493,1.576
+P01,J. Dela Cruz,2,1.323,1.345
+P02,J. Dela Cruz,2,1.63,1.763
+P03,J. Dela Cruz,2,1.388,1.531
+P04,J. Dela Cruz,2,1.329,1.353
+P05,J. Dela Cruz,2,1.8,1.789
+P06,J. Dela Cruz,2,1.768,1.791
+P07,J. Dela Cruz,2,1.543,1.557
+P08,J. Dela Cruz,2,1.289,1.394
+P09,J. Dela Cruz,2,1.638,1.661
+P10,J. Dela Cruz,2,1.518,1.576
+P01,S. Al-Qahtani,3,1.358,1.345
+P02,S. Al-Qahtani,3,1.819,1.763
+P03,S. Al-Qahtani,3,1.471,1.531
+P04,S. Al-Qahtani,3,1.416,1.353
+P05,S. Al-Qahtani,3,1.779,1.789
+P06,S. Al-Qahtani,3,1.765,1.791
+P07,S. Al-Qahtani,3,1.642,1.557
+P08,S. Al-Qahtani,3,1.461,1.394
+P09,S. Al-Qahtani,3,1.614,1.661
+P10,S. Al-Qahtani,3,1.566,1.576
+P01,R. Mathew,3,1.397,1.345
+P02,R. Mathew,3,1.815,1.763
+P03,R. Mathew,3,1.508,1.531
+P04,R. Mathew,3,1.336,1.353
+P05,R. Mathew,3,1.79,1.789
+P06,R. Mathew,3,1.787,1.791
+P07,R. Mathew,3,1.606,1.557
+P08,R. Mathew,3,1.39,1.394
+P09,R. Mathew,3,1.65,1.661
+P10,R. Mathew,3,1.616,1.576
+P01,J. Dela Cruz,3,1.227,1.345
+P02,J. Dela Cruz,3,1.606,1.763
+P03,J. Dela Cruz,3,1.51,1.531
+P04,J. Dela Cruz,3,1.317,1.353
+P05,J. Dela Cruz,3,1.695,1.789
+P06,J. Dela Cruz,3,1.669,1.791
+P07,J. Dela Cruz,3,1.474,1.557
+P08,J. Dela Cruz,3,1.336,1.394
+P09,J. Dela Cruz,3,1.513,1.661
+P10,J. Dela Cruz,3,1.512,1.576

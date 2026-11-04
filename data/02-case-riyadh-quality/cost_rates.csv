@@ -1,0 +1,7 @@
+item,value,unit
+selling_price,9.6,SAR per case of 12 x 600 ml
+truly_variable_cost,5.1,"SAR per case: resin, preform, cap, label, carton, water, energy"
+rework_cost,1.35,"SAR per case: decap, new cap, recap, repack"
+complaint_credit,9.6,SAR per case credited to the customer
+line_rate,1500,cases per hour
+lab_retest,0.75,lab hours per held block

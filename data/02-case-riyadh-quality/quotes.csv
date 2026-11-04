@@ -1,0 +1,6 @@
+quote_id,item,source,price_sar,lead_time_weeks,vendor_claim
+Q-01,New 12-head rotary capper,Capping machine vendor,1850000,26,Head-to-head torque spread under 0.05 N m
+Q-02,"Supplementary air-cooled chiller, 60 TR",HVAC contractor,310000,8,Holds chilled water supply at 12 C up to 50 C ambient
+Q-03,Adiabatic pre-cooler pads for existing chiller condenser,HVAC contractor,85000,3,Lowers condenser inlet air by 6 C when relative humidity is under 20%
+Q-04,"Torque tester fixture, calibration and operator training",Instrument supplier,18000,2,Removes operator technique bias
+Q-05,"Return to Gulf Polymers resin, price difference per tonne",Purchasing,310,0,

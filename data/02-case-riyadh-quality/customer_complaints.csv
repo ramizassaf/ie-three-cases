@@ -1,0 +1,13 @@
+complaint_id,received_date,lot,customer,complaint,bottles
+CC-001,2017-07-13,20170704-B,Office Water Delivery,Cap hard to open,72
+CC-002,2017-07-22,20170717-B,Riyadh Hypermarkets,Cap hard to open,101
+CC-003,2017-07-23,20170720-B,Al-Waha Stores,Cap hard to open,131
+CC-004,2017-07-24,20170716-B,Riyadh Hypermarkets,Cap hard to open,44
+CC-005,2017-08-07,20170730-B,Riyadh Hypermarkets,Cap hard to open,45
+CC-006,2017-08-07,20170801-B,Riyadh Hypermarkets,Cap hard to open,60
+CC-007,2017-08-14,20170805-B,Office Water Delivery,Cap hard to open,27
+CC-008,2017-08-21,20170815-B,Office Water Delivery,Cap hard to open,141
+CC-009,2017-08-24,20170815-B,Al-Waha Stores,Cap hard to open,27
+CC-010,2017-08-27,20170822-B,Al-Waha Stores,Cap hard to open,43
+CC-011,2017-08-29,20170819-B,Al-Waha Stores,Cap hard to open,24
+CC-012,2017-08-30,20170820-B,Office Water Delivery,Cap hard to open,135
