@@ -1,0 +1,9 @@
+item,LIGHT,MEDIUM,HEAVY,note
+tube_mill_nominal_t_per_h,6.0,5.6,5.1,forming and welding line
+kettle_nominal_t_per_h,3.45,3.8,4.15,"hot-dip zinc kettle, one bundle at a time"
+kpi_standard_t_per_h,5.7,3.75,,"tube mill, kettle (used by monthly KPI report)"
+tube_mill_changeover_min,75,,,size change
+bundle_max_t,2.5,,,
+kettle_handover_planned_min,30,,,three handovers a day at 06:00 14:00 22:00 until 2019-06-08
+kettle_dross_cleaning_min,40,,,daily at 10:00
+quoted_lead_time_days,21,,,due date = received + 21 days

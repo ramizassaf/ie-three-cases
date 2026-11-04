@@ -1,0 +1,10 @@
+item,value,unit
+selling_price,415,OMR/t
+steel_and_zinc_cost,322,OMR/t
+wip_material_cost,296,OMR/t
+night_shift_crew_cost,9400,OMR/month
+overtime_and_power_night,3100,OMR/month
+second_kettle_quote,1450000,OMR
+second_kettle_lead_time,40,weeks
+late_penalty_duqm,0.5,"pct of order value per day late, max 10"
+kettle_handover_overlap_cost,1150,OMR/month
