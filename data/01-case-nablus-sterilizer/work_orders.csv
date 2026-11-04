@@ -1,0 +1,147 @@
+wo_id,wo_type,device_id,reported_at,reported_fault,technician,repair_start,repair_end,action_taken,parts_used,parts_cost_ils
+WO-00001,CM,STER-01,2013-09-04 17:23:08,"Steam generator fault, scale suspected",T. Hamdan,2013-09-04 21:35:50,2013-09-05 00:55:18,Descaled steam generator,Descaling agent,120
+WO-00002,CM,STER-02,2013-09-04 17:52:48,"Steam generator fault, scale suspected",T. Hamdan,2013-09-04 21:21:15,2013-09-05 00:29:08,Descaled steam generator,Descaling agent,120
+WO-00003,CM,STER-02,2013-09-12 13:16:41,"Steam generator fault, scale suspected",T. Hamdan,2013-09-12 14:14:57,2013-09-12 17:11:51,Replaced steam generator heater element,Heater element 9 kW,900
+WO-00004,CM,STER-02,2013-09-23 18:15:44,Controller error,T. Hamdan,2013-09-23 21:54:15,2013-09-23 22:17:06,"Reset controller, test cycle OK",,0
+WO-00005,CM,STER-01,2013-10-12 08:28:49,"Steam generator fault, scale suspected",T. Hamdan,2013-10-12 08:52:23,2013-10-12 12:44:37,Replaced steam generator heater element,Heater element 9 kW,900
+WO-00006,CM,STER-01,2013-10-13 21:31:49,Temperature deviation,T. Hamdan,2013-10-14 02:11:38,2013-10-14 04:09:08,Replaced PT100 sensor,PT100 sensor,380
+WO-00007,CM,STER-02,2013-10-14 15:57:49,Controller error,T. Hamdan,2013-10-14 19:47:36,2013-10-14 20:03:26,"Reset controller, test cycle OK",,0
+WO-00008,CM,STER-01,2013-10-14 16:01:43,Door seal leak,A. Shaker,2013-10-14 17:43:01,2013-10-14 18:43:27,Replaced door gasket,Door gasket,450
+WO-00009,PM,STER-03,2013-10-15 15:31:43,Quarterly PM,A. Shaker,2013-10-15 15:31:43,2013-10-15 18:09:44,"PM checklist, Bowie-Dick test OK",Door gasket,450
+WO-00010,PM,STER-01,2013-10-15 15:35:56,Quarterly PM,T. Hamdan,2013-10-15 15:35:56,2013-10-15 18:35:19,"PM checklist, Bowie-Dick test OK",Door gasket,450
+WO-00011,PM,STER-02,2013-10-15 15:41:36,Quarterly PM,A. Shaker,2013-10-15 15:41:36,2013-10-15 18:46:22,"PM checklist, Bowie-Dick test OK",Door gasket,450
+WO-00012,CM,STER-01,2013-10-24 16:59:17,Temperature deviation,M. Odeh,2013-10-24 20:48:35,2013-10-24 21:58:37,Replaced PT100 sensor,PT100 sensor,380
+WO-00013,CM,STER-01,2013-10-27 10:49:09,Temperature deviation,M. Odeh,2013-10-27 11:25:35,2013-10-27 12:57:42,Replaced PT100 sensor,PT100 sensor,380
+WO-00014,CM,STER-02,2013-10-27 11:20:48,"Steam generator fault, scale suspected",T. Hamdan,2013-10-27 11:40:51,2013-10-27 15:36:44,Descaled steam generator,Descaling agent,120
+WO-00015,CM,STER-02,2013-11-10 07:16:27,Door seal leak,M. Odeh,2013-11-10 07:48:49,2013-11-10 08:38:53,Replaced door gasket,Door gasket,450
+WO-00016,CM,STER-01,2013-11-10 07:19:46,"Steam generator fault, scale suspected",M. Odeh,2013-11-10 08:12:31,2013-11-10 11:59:51,Descaled steam generator,Descaling agent,120
+WO-00017,CM,STER-01,2013-11-14 22:28:42,"Steam generator fault, scale suspected",T. Hamdan,2013-11-15 00:07:16,2013-11-15 04:04:46,Descaled steam generator,Descaling agent,120
+WO-00018,CM,STER-01,2013-11-16 21:31:43,"Steam generator fault, scale suspected",M. Odeh,2013-11-17 02:22:14,2013-11-17 06:11:23,Descaled steam generator,Descaling agent,120
+WO-00019,CM,STER-02,2013-11-22 11:05:31,"Steam generator fault, scale suspected",A. Shaker,2013-11-22 14:14:30,2013-11-22 17:08:57,Descaled steam generator,Descaling agent,120
+WO-00020,CM,STER-01,2013-12-04 06:30:41,Door seal leak,A. Shaker,2013-12-04 11:11:46,2013-12-04 12:35:42,Replaced door gasket,Door gasket,450
+WO-00021,CM,STER-01,2013-12-07 07:20:11,Door seal leak,T. Hamdan,2013-12-07 08:34:17,2013-12-07 09:43:25,Replaced door gasket,Door gasket,450
+WO-00022,CM,STER-02,2013-12-07 07:42:31,Temperature deviation,A. Shaker,2013-12-07 08:56:52,2013-12-07 10:24:59,Replaced PT100 sensor,PT100 sensor,380
+WO-00023,CM,STER-02,2013-12-09 12:22:09,Controller error,T. Hamdan,2013-12-09 13:45:08,2013-12-09 14:00:23,"Reset controller, test cycle OK",,0
+WO-00024,CM,STER-02,2013-12-18 15:49:02,Door seal leak,A. Shaker,2013-12-18 19:12:27,2013-12-18 20:23:08,Replaced door gasket,Door gasket,450
+WO-00025,CM,STER-01,2013-12-22 17:35:51,Door seal leak,M. Odeh,2013-12-22 22:32:16,2013-12-22 23:56:30,Replaced door gasket,Door gasket,450
+WO-00026,CM,STER-01,2013-12-25 06:44:22,"Steam generator fault, scale suspected",A. Shaker,2013-12-25 09:27:19,2013-12-25 12:17:29,Descaled steam generator,Descaling agent,120
+WO-00027,CM,STER-02,2013-12-26 10:07:18,"Steam generator fault, scale suspected",A. Shaker,2013-12-26 11:33:56,2013-12-26 13:45:54,Replaced steam generator heater element,Heater element 9 kW,900
+WO-00028,CM,STER-01,2013-12-26 10:27:59,Door seal leak,A. Shaker,2013-12-26 11:08:42,2013-12-26 12:25:24,Replaced door gasket,Door gasket,450
+WO-00029,CM,STER-02,2014-01-07 08:07:17,"Steam generator fault, scale suspected",A. Shaker,2014-01-07 09:01:18,2014-01-07 12:44:03,Descaled steam generator,Descaling agent,120
+WO-00030,CM,STER-01,2014-01-07 08:23:46,"Steam generator fault, scale suspected",T. Hamdan,2014-01-07 09:17:08,2014-01-07 11:54:06,Descaled steam generator,Descaling agent,120
+WO-00031,CM,STER-02,2014-01-09 14:18:10,"Steam generator fault, scale suspected",A. Shaker,2014-01-09 15:37:00,2014-01-09 19:32:59,Descaled steam generator,Descaling agent,120
+WO-00032,CM,STER-01,2014-01-11 09:29:05,Temperature deviation,T. Hamdan,2014-01-11 10:53:57,2014-01-11 12:53:45,Replaced PT100 sensor,PT100 sensor,380
+WO-00033,CM,STER-02,2014-01-11 09:53:33,Door seal leak,A. Shaker,2014-01-11 11:15:51,2014-01-11 12:15:21,Replaced door gasket,Door gasket,450
+WO-00034,CM,STER-02,2014-01-13 20:07:19,Door seal leak,T. Hamdan,2014-01-13 22:29:14,2014-01-13 23:53:11,Replaced door gasket,Door gasket,450
+WO-00035,CM,STER-02,2014-01-14 08:07:14,Door seal leak,T. Hamdan,2014-01-14 09:15:15,2014-01-14 10:28:06,Replaced door gasket,Door gasket,450
+WO-00036,CM,STER-01,2014-01-14 08:08:19,Door seal leak,M. Odeh,2014-01-14 09:15:08,2014-01-14 10:06:25,Replaced door gasket,Door gasket,450
+WO-00037,PM,STER-02,2014-01-14 15:33:37,Quarterly PM,A. Shaker,2014-01-14 15:33:37,2014-01-14 18:10:20,"PM checklist, Bowie-Dick test OK",Door gasket,450
+WO-00038,PM,STER-03,2014-01-14 15:37:25,Quarterly PM,M. Odeh,2014-01-14 15:37:25,2014-01-14 18:50:17,"PM checklist, Bowie-Dick test OK",Door gasket,450
+WO-00039,PM,STER-01,2014-01-14 15:37:35,Quarterly PM,T. Hamdan,2014-01-14 15:37:35,2014-01-14 18:40:26,"PM checklist, Bowie-Dick test OK",Door gasket,450
+WO-00040,CM,STER-02,2014-01-16 13:11:35,"Steam generator fault, scale suspected",A. Shaker,2014-01-16 14:17:36,2014-01-16 17:23:32,Descaled steam generator,Descaling agent,120
+WO-00041,CM,STER-01,2014-01-21 07:52:45,Door seal leak,A. Shaker,2014-01-21 09:17:03,2014-01-21 10:15:44,Replaced door gasket,Door gasket,450
+WO-00042,CM,STER-01,2014-01-27 08:18:17,"Steam generator fault, scale suspected",M. Odeh,2014-01-27 09:01:04,2014-01-27 11:33:56,Descaled steam generator,Descaling agent,120
+WO-00043,CM,STER-01,2014-01-27 20:02:59,"Steam generator fault, scale suspected",T. Hamdan,2014-01-27 21:34:33,2014-01-27 23:35:38,Descaled steam generator,Descaling agent,120
+WO-00044,CM,STER-02,2014-01-29 22:03:38,"Steam generator fault, scale suspected",A. Shaker,2014-01-30 00:11:56,2014-01-30 02:58:35,Descaled steam generator,Descaling agent,120
+WO-00045,CM,STER-02,2014-02-04 08:03:08,Door seal leak,T. Hamdan,2014-02-04 09:21:11,2014-02-04 10:09:55,Replaced door gasket,Door gasket,450
+WO-00046,CM,STER-02,2014-02-10 10:58:45,Controller error,T. Hamdan,2014-02-10 12:21:10,2014-02-10 12:38:49,"Reset controller, test cycle OK",,0
+WO-00047,CM,STER-01,2014-02-10 11:25:08,"Steam generator fault, scale suspected",M. Odeh,2014-02-10 12:20:34,2014-02-10 14:41:18,Descaled steam generator,Descaling agent,120
+WO-00048,CM,STER-03,2014-02-11 08:19:07,Temperature deviation,T. Hamdan,2014-02-11 09:31:33,2014-02-11 11:04:58,Replaced PT100 sensor,PT100 sensor,380
+WO-00049,CM,STER-02,2014-02-13 22:25:32,"Steam generator fault, scale suspected",A. Shaker,2014-02-14 01:43:18,2014-02-14 04:45:45,Descaled steam generator,Descaling agent,120
+WO-00050,CM,STER-02,2014-02-16 12:22:22,"Steam generator fault, scale suspected",M. Odeh,2014-02-16 13:14:12,2014-02-16 16:03:13,Descaled steam generator,Descaling agent,120
+WO-00051,CM,STER-01,2014-02-17 10:27:43,Door seal leak,M. Odeh,2014-02-17 11:52:13,2014-02-17 12:52:03,Replaced door gasket,Door gasket,450
+WO-00052,CM,STER-02,2014-02-17 10:36:20,"Steam generator fault, scale suspected",T. Hamdan,2014-02-17 11:29:06,2014-02-17 14:20:27,Descaled steam generator,Descaling agent,120
+WO-00053,CM,STER-02,2014-02-18 08:14:18,Controller error,A. Shaker,2014-02-18 09:11:43,2014-02-18 09:39:20,"Reset controller, test cycle OK",,0
+WO-00054,CM,STER-02,2014-02-24 10:35:43,Door seal leak,M. Odeh,2014-02-24 11:22:42,2014-02-24 12:35:52,Replaced door gasket,Door gasket,450
+WO-00055,CM,STER-01,2014-03-04 08:12:25,Temperature deviation,M. Odeh,2014-03-04 08:54:49,2014-03-04 10:42:04,Replaced PT100 sensor,PT100 sensor,380
+WO-00056,CM,STER-02,2014-03-18 08:32:11,"Steam generator fault, scale suspected",T. Hamdan,2014-03-18 08:57:31,2014-03-18 11:34:00,Descaled steam generator,Descaling agent,120
+WO-00057,CM,STER-01,2014-03-23 21:42:06,Controller error,M. Odeh,2014-03-24 01:38:39,2014-03-24 02:08:18,"Reset controller, test cycle OK",,0
+WO-00058,CM,STER-02,2014-03-23 22:08:20,Controller error,T. Hamdan,2014-03-24 02:22:20,2014-03-24 02:42:02,"Reset controller, test cycle OK",,0
+WO-00059,CM,STER-02,2014-03-25 07:48:48,Controller error,A. Shaker,2014-03-25 09:00:22,2014-03-25 09:25:14,"Reset controller, test cycle OK",,0
+WO-00060,CM,STER-01,2014-03-25 08:03:57,"Steam generator fault, scale suspected",A. Shaker,2014-03-25 08:35:46,2014-03-25 10:54:38,Descaled steam generator,Descaling agent,120
+WO-00061,CM,STER-01,2014-04-08 08:07:13,"Steam generator fault, scale suspected",T. Hamdan,2014-04-08 08:26:50,2014-04-08 10:32:32,Descaled steam generator,Descaling agent,120
+WO-00062,CM,STER-01,2014-04-13 08:50:31,"Steam generator fault, scale suspected",M. Odeh,2014-04-13 09:39:30,2014-04-13 12:55:06,Descaled steam generator,Descaling agent,120
+WO-00063,CM,STER-01,2014-04-15 07:43:53,Temperature deviation,A. Shaker,2014-04-15 08:30:41,2014-04-15 10:25:56,Replaced PT100 sensor,PT100 sensor,380
+WO-00064,PM,STER-02,2014-04-15 15:34:13,Quarterly PM,M. Odeh,2014-04-15 15:34:13,2014-04-15 18:27:24,"PM checklist, Bowie-Dick test OK",Door gasket,450
+WO-00065,PM,STER-03,2014-04-15 15:43:41,Quarterly PM,A. Shaker,2014-04-15 15:43:41,2014-04-15 18:14:12,"PM checklist, Bowie-Dick test OK",Door gasket,450
+WO-00066,PM,STER-01,2014-04-15 15:59:55,Quarterly PM,M. Odeh,2014-04-15 15:59:55,2014-04-15 18:42:40,"PM checklist, Bowie-Dick test OK",Door gasket,450
+WO-00067,CM,STER-02,2014-04-16 14:23:23,"Steam generator fault, scale suspected",M. Odeh,2014-04-16 15:45:21,2014-04-16 19:29:10,Descaled steam generator,Descaling agent,120
+WO-00068,CM,STER-01,2014-04-19 19:54:47,"Steam generator fault, scale suspected",T. Hamdan,2014-04-20 00:47:54,2014-04-20 04:02:01,Replaced steam generator heater element,Heater element 9 kW,900
+WO-00069,CM,STER-02,2014-04-19 20:02:08,"Steam generator fault, scale suspected",A. Shaker,2014-04-20 00:05:56,2014-04-20 03:24:41,Descaled steam generator,Descaling agent,120
+WO-00070,CM,STER-02,2014-04-22 07:55:01,"Steam generator fault, scale suspected",A. Shaker,2014-04-22 08:30:24,2014-04-22 10:49:14,Descaled steam generator,Descaling agent,120
+WO-00071,CM,STER-01,2014-04-22 08:14:42,Controller error,A. Shaker,2014-04-22 09:44:11,2014-04-22 10:09:43,"Reset controller, test cycle OK",,0
+WO-00072,CM,STER-02,2014-04-23 19:10:57,Controller error,A. Shaker,2014-04-23 22:01:37,2014-04-23 22:14:34,"Reset controller, test cycle OK",,0
+WO-00073,CM,STER-02,2014-04-24 09:04:38,"Steam generator fault, scale suspected",A. Shaker,2014-04-24 09:41:20,2014-04-24 12:32:51,Replaced steam generator heater element,Heater element 9 kW,900
+WO-00074,CM,STER-01,2014-04-27 13:57:56,"Steam generator fault, scale suspected",M. Odeh,2014-04-27 14:31:48,2014-04-27 16:44:17,Descaled steam generator,Descaling agent,120
+WO-00075,CM,STER-02,2014-04-29 07:37:48,"Steam generator fault, scale suspected",A. Shaker,2014-04-29 09:06:25,2014-04-29 12:22:19,Descaled steam generator,Descaling agent,120
+WO-00076,CM,STER-02,2014-05-13 08:12:01,"Steam generator fault, scale suspected",A. Shaker,2014-05-13 08:49:41,2014-05-13 11:22:39,Descaled steam generator,Descaling agent,120
+WO-00077,CM,STER-01,2014-05-13 08:37:19,Temperature deviation,M. Odeh,2014-05-13 09:33:01,2014-05-13 11:08:04,Replaced PT100 sensor,PT100 sensor,380
+WO-00078,CM,STER-01,2014-05-19 20:46:14,"Steam generator fault, scale suspected",T. Hamdan,2014-05-19 22:16:05,2014-05-20 02:13:21,Descaled steam generator,Descaling agent,120
+WO-00079,CM,STER-01,2014-05-20 08:00:53,"Steam generator fault, scale suspected",M. Odeh,2014-05-20 09:07:13,2014-05-20 11:19:05,Descaled steam generator,Descaling agent,120
+WO-00080,CM,STER-02,2014-06-16 17:49:56,Temperature deviation,T. Hamdan,2014-06-16 19:37:43,2014-06-16 21:05:43,Replaced PT100 sensor,PT100 sensor,380
+WO-00081,CM,STER-01,2014-06-17 08:24:13,Door seal leak,M. Odeh,2014-06-17 08:55:31,2014-06-17 10:09:15,Replaced door gasket,Door gasket,450
+WO-00082,CM,STER-02,2014-06-24 08:26:32,"Steam generator fault, scale suspected",A. Shaker,2014-06-24 08:49:27,2014-06-24 11:40:34,Descaled steam generator,Descaling agent,120
+WO-00083,CM,STER-02,2014-07-01 07:40:03,Temperature deviation,T. Hamdan,2014-07-01 07:56:04,2014-07-01 09:07:28,Replaced PT100 sensor,PT100 sensor,380
+WO-00084,CM,STER-02,2014-07-02 10:12:37,"Steam generator fault, scale suspected",M. Odeh,2014-07-02 11:38:20,2014-07-02 14:39:34,Descaled steam generator,Descaling agent,120
+WO-00085,CM,STER-01,2014-07-02 10:12:38,"Steam generator fault, scale suspected",T. Hamdan,2014-07-02 11:40:14,2014-07-02 15:16:26,Descaled steam generator,Descaling agent,120
+WO-00086,CM,STER-01,2014-07-03 14:17:48,"Steam generator fault, scale suspected",M. Odeh,2014-07-03 14:37:59,2014-07-03 17:04:51,Descaled steam generator,Descaling agent,120
+WO-00087,CM,STER-02,2014-07-03 14:24:39,"Steam generator fault, scale suspected",M. Odeh,2014-07-03 14:44:25,2014-07-03 18:28:32,Descaled steam generator,Descaling agent,120
+WO-00088,CM,STER-01,2014-07-15 07:50:44,"Steam generator fault, scale suspected",M. Odeh,2014-07-15 08:11:27,2014-07-15 11:29:45,Descaled steam generator,Descaling agent,120
+WO-00089,PM,STER-02,2014-07-15 15:37:53,Quarterly PM,A. Shaker,2014-07-15 15:37:53,2014-07-15 18:21:19,"PM checklist, Bowie-Dick test OK",Door gasket,450
+WO-00090,PM,STER-03,2014-07-15 15:38:25,Quarterly PM,M. Odeh,2014-07-15 15:38:25,2014-07-15 18:33:29,"PM checklist, Bowie-Dick test OK",Door gasket,450
+WO-00091,PM,STER-01,2014-07-15 15:44:22,Quarterly PM,M. Odeh,2014-07-15 15:44:22,2014-07-15 18:16:35,"PM checklist, Bowie-Dick test OK",Door gasket,450
+WO-00092,CM,STER-02,2014-07-16 14:38:10,Temperature deviation,A. Shaker,2014-07-16 16:01:12,2014-07-16 17:14:03,Replaced PT100 sensor,PT100 sensor,380
+WO-00093,CM,STER-02,2014-07-21 15:21:04,Door seal leak,A. Shaker,2014-07-21 18:14:56,2014-07-21 19:03:11,Replaced door gasket,Door gasket,450
+WO-00094,CM,STER-01,2014-07-22 07:44:39,"Steam generator fault, scale suspected",M. Odeh,2014-07-22 08:49:10,2014-07-22 10:59:44,Descaled steam generator,Descaling agent,120
+WO-00095,CM,STER-01,2014-07-29 08:12:52,Door seal leak,M. Odeh,2014-07-29 08:54:22,2014-07-29 10:02:56,Replaced door gasket,Door gasket,450
+WO-00096,CM,STER-02,2014-07-29 08:17:53,"Steam generator fault, scale suspected",T. Hamdan,2014-07-29 09:28:48,2014-07-29 13:06:14,Descaled steam generator,Descaling agent,120
+WO-00097,CM,STER-02,2014-07-31 18:02:10,Door seal leak,M. Odeh,2014-07-31 19:15:14,2014-07-31 20:39:06,Replaced door gasket,Door gasket,450
+WO-00098,CM,STER-01,2014-08-05 08:00:14,"Steam generator fault, scale suspected",A. Shaker,2014-08-05 08:27:10,2014-08-05 11:12:47,Descaled steam generator,Descaling agent,120
+WO-00099,CM,STER-01,2014-08-06 10:44:29,Controller error,M. Odeh,2014-08-06 12:01:59,2014-08-06 12:21:20,"Reset controller, test cycle OK",,0
+WO-00100,CM,STER-02,2014-08-06 11:21:06,Controller error,A. Shaker,2014-08-06 12:05:19,2014-08-06 12:24:51,"Reset controller, test cycle OK",,0
+WO-00101,CM,STER-01,2014-08-12 07:40:32,Door seal leak,A. Shaker,2014-08-12 07:56:57,2014-08-12 09:11:59,Replaced door gasket,Door gasket,450
+WO-00102,CM,STER-01,2014-08-14 14:56:12,Temperature deviation,A. Shaker,2014-08-14 15:45:15,2014-08-14 17:27:40,Replaced PT100 sensor,PT100 sensor,380
+WO-00103,CM,STER-03,2014-08-14 15:24:07,"Steam generator fault, scale suspected",T. Hamdan,2014-08-14 18:26:00,2014-08-14 21:19:37,Descaled steam generator,Descaling agent,120
+WO-00104,CM,STER-01,2014-08-14 18:26:25,Controller error,A. Shaker,2014-08-14 20:18:50,2014-08-14 20:32:26,"Reset controller, test cycle OK",,0
+WO-00105,CM,STER-02,2014-08-14 18:59:57,Power problem,T. Hamdan,2014-08-14 23:49:26,2014-08-15 00:11:14,"Checked supply, test cycle OK",,0
+WO-00106,CM,STER-01,2014-08-17 10:46:05,Controller error,A. Shaker,2014-08-17 11:51:07,2014-08-17 12:14:57,"Reset controller, test cycle OK",,0
+WO-00107,CM,STER-02,2014-08-19 12:53:11,Door seal leak,A. Shaker,2014-08-19 14:00:24,2014-08-19 14:49:17,Replaced door gasket,Door gasket,450
+WO-00108,CM,STER-01,2014-08-26 07:56:45,"Steam generator fault, scale suspected",M. Odeh,2014-08-26 08:47:09,2014-08-26 11:44:55,Descaled steam generator,Descaling agent,120
+WO-00109,CM,STER-02,2014-09-02 07:59:31,Controller error,T. Hamdan,2014-09-02 08:44:14,2014-09-02 09:02:28,"Reset controller, test cycle OK",,0
+WO-00110,CM,STER-01,2014-09-02 08:26:56,"Steam generator fault, scale suspected",A. Shaker,2014-09-02 08:46:19,2014-09-02 11:36:28,Descaled steam generator,Descaling agent,120
+WO-00111,CM,STER-02,2014-09-09 08:34:31,Temperature deviation,A. Shaker,2014-09-09 09:23:43,2014-09-09 11:00:48,Replaced PT100 sensor,PT100 sensor,380
+WO-00112,CM,STER-01,2014-09-11 12:39:52,"Steam generator fault, scale suspected",M. Odeh,2014-09-11 13:06:58,2014-09-11 16:00:50,Replaced steam generator heater element,Heater element 9 kW,900
+WO-00113,CM,STER-02,2014-09-11 12:53:27,Door seal leak,M. Odeh,2014-09-11 13:53:40,2014-09-11 14:56:30,Replaced door gasket,Door gasket,450
+WO-00114,CM,STER-02,2014-09-16 08:03:39,"Steam generator fault, scale suspected",T. Hamdan,2014-09-16 09:17:08,2014-09-16 11:52:38,Descaled steam generator,Descaling agent,120
+WO-00115,CM,STER-01,2014-09-16 08:29:35,Door seal leak,T. Hamdan,2014-09-16 09:15:17,2014-09-16 10:10:53,Replaced door gasket,Door gasket,450
+WO-00116,CM,STER-02,2014-09-16 16:48:30,Temperature deviation,A. Shaker,2014-09-16 18:44:23,2014-09-16 20:22:00,Replaced PT100 sensor,PT100 sensor,380
+WO-00117,CM,STER-02,2014-09-23 10:29:51,"Steam generator fault, scale suspected",M. Odeh,2014-09-23 11:19:54,2014-09-23 15:04:31,Descaled steam generator,Descaling agent,120
+WO-00118,CM,STER-02,2014-09-30 07:59:24,"Steam generator fault, scale suspected",M. Odeh,2014-09-30 09:09:43,2014-09-30 11:12:53,Descaled steam generator,Descaling agent,120
+WO-00119,CM,STER-01,2014-09-30 08:29:31,Door seal leak,M. Odeh,2014-09-30 09:51:37,2014-09-30 10:40:14,Replaced door gasket,Door gasket,450
+WO-00120,CM,STER-01,2014-10-08 09:45:55,"Steam generator fault, scale suspected",T. Hamdan,2014-10-08 10:11:39,2014-10-08 12:24:40,Descaled steam generator,Descaling agent,120
+WO-00121,CM,STER-02,2014-10-08 09:52:37,"Steam generator fault, scale suspected",M. Odeh,2014-10-08 11:15:22,2014-10-08 13:43:26,Descaled steam generator,Descaling agent,120
+WO-00122,CM,STER-01,2014-10-12 11:07:14,Controller error,A. Shaker,2014-10-12 12:13:21,2014-10-12 12:34:07,"Reset controller, test cycle OK",,0
+WO-00123,CM,STER-02,2014-10-12 11:17:43,Power problem,T. Hamdan,2014-10-12 12:34:13,2014-10-12 12:59:27,"Checked supply, test cycle OK",,0
+WO-00124,CM,STER-03,2014-10-12 11:59:14,"Steam generator fault, scale suspected",M. Odeh,2014-10-12 13:00:44,2014-10-12 15:47:34,Descaled steam generator,Descaling agent,120
+WO-00125,PM,STER-03,2014-10-14 15:43:51,Quarterly PM,M. Odeh,2014-10-14 15:43:51,2014-10-14 19:12:45,"PM checklist, Bowie-Dick test OK",Door gasket,450
+WO-00126,PM,STER-01,2014-10-14 15:50:06,Quarterly PM,T. Hamdan,2014-10-14 15:50:06,2014-10-14 19:02:01,"PM checklist, Bowie-Dick test OK",Door gasket,450
+WO-00127,PM,STER-02,2014-10-14 15:57:59,Quarterly PM,A. Shaker,2014-10-14 15:57:59,2014-10-14 18:50:01,"PM checklist, Bowie-Dick test OK",Door gasket,450
+WO-00128,CM,STER-01,2014-10-20 06:42:35,Temperature deviation,M. Odeh,2014-10-20 10:31:43,2014-10-20 11:51:37,Replaced PT100 sensor,PT100 sensor,380
+WO-00129,CM,STER-01,2014-10-21 07:58:03,Temperature deviation,A. Shaker,2014-10-21 08:32:13,2014-10-21 10:02:56,Replaced PT100 sensor,PT100 sensor,380
+WO-00130,CM,STER-02,2014-10-27 11:09:44,"Steam generator fault, scale suspected",M. Odeh,2014-10-27 11:54:33,2014-10-27 15:36:28,Descaled steam generator,Descaling agent,120
+WO-00131,CM,STER-01,2014-11-03 12:41:12,Door seal leak,M. Odeh,2014-11-03 13:23:06,2014-11-03 14:50:10,Replaced door gasket,Door gasket,450
+WO-00132,CM,STER-02,2014-11-04 07:49:02,Controller error,A. Shaker,2014-11-04 08:24:07,2014-11-04 08:37:49,"Reset controller, test cycle OK",,0
+WO-00133,CM,STER-01,2014-11-11 07:49:16,"Steam generator fault, scale suspected",A. Shaker,2014-11-11 09:05:38,2014-11-11 11:13:47,Replaced steam generator heater element,Heater element 9 kW,900
+WO-00134,CM,STER-01,2014-11-12 21:52:27,Door seal leak,A. Shaker,2014-11-13 02:28:55,2014-11-13 03:37:28,Replaced door gasket,Door gasket,450
+WO-00135,CM,STER-01,2014-11-23 06:58:05,Temperature deviation,A. Shaker,2014-11-23 09:19:50,2014-11-23 10:38:22,Replaced PT100 sensor,PT100 sensor,380
+WO-00136,CM,STER-01,2014-11-25 08:10:55,"Steam generator fault, scale suspected",A. Shaker,2014-11-25 08:58:10,2014-11-25 12:11:15,Descaled steam generator,Descaling agent,120
+WO-00137,CM,STER-03,2014-12-04 07:38:51,Door seal leak,A. Shaker,2014-12-04 08:18:50,2014-12-04 09:32:53,Replaced door gasket,Door gasket,450
+WO-00138,CM,STER-01,2014-12-09 07:51:51,"Steam generator fault, scale suspected",A. Shaker,2014-12-09 08:23:45,2014-12-09 10:24:21,Descaled steam generator,Descaling agent,120
+WO-00139,CM,STER-03,2014-12-09 08:37:12,Temperature deviation,T. Hamdan,2014-12-09 09:02:38,2014-12-09 10:29:27,Replaced PT100 sensor,PT100 sensor,380
+WO-00140,CM,STER-02,2014-12-11 17:13:15,Door seal leak,A. Shaker,2014-12-11 19:39:24,2014-12-11 21:00:07,Replaced door gasket,Door gasket,450
+WO-00141,CM,STER-01,2014-12-11 19:06:07,"Steam generator fault, scale suspected",T. Hamdan,2014-12-11 23:13:36,2014-12-12 02:41:17,Descaled steam generator,Descaling agent,120
+WO-00142,CM,STER-02,2014-12-13 10:38:56,"Steam generator fault, scale suspected",M. Odeh,2014-12-13 11:30:24,2014-12-13 15:16:20,Descaled steam generator,Descaling agent,120
+WO-00143,CM,STER-02,2014-12-13 16:17:06,"Steam generator fault, scale suspected",M. Odeh,2014-12-13 19:37:17,2014-12-13 23:24:18,Descaled steam generator,Descaling agent,120
+WO-00144,CM,STER-02,2014-12-16 08:10:20,"Steam generator fault, scale suspected",T. Hamdan,2014-12-16 09:02:51,2014-12-16 12:19:02,Descaled steam generator,Descaling agent,120
+WO-00145,CM,STER-01,2014-12-17 22:25:20,"Steam generator fault, scale suspected",A. Shaker,2014-12-18 00:44:47,2014-12-18 02:48:22,Replaced steam generator heater element,Heater element 9 kW,900
+WO-00146,CM,STER-02,2014-12-23 07:47:35,Controller error,T. Hamdan,2014-12-23 08:34:44,2014-12-23 08:58:03,"Reset controller, test cycle OK",,0
