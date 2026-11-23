@@ -4,6 +4,15 @@
 
 والبيانات خيالية، تولدها البرامج بقيم ابتدائية ثابتة: 2014 لنابلس، و2017 للرياض، و2019 لصحار. فمن يشغل برامج التوليد يحصل على الملفات نفسها حرفاً بحرف.
 
+## الكتاب
+
+الكتاب كاملاً، مجاني للقراءة والتحميل:
+
+- صفحة الكتاب: https://ramizassaf.github.io/ie-three-cases/
+- اقرأه على الويب: https://ramizassaf.github.io/ie-three-cases/book/
+- ملف PDF: [`book/Game_of_Industrial_Engineering_Three_Cases_Ramiz_Assaf.pdf`](book/Game_of_Industrial_Engineering_Three_Cases_Ramiz_Assaf.pdf)
+- البيانات على Kaggle: https://www.kaggle.com/datasets/ramizassaf/industrial-engineering-three-cases
+
 ## المحتوى
 
 | المجلد | ما فيه |
@@ -44,4 +53,4 @@ python3 scripts/concept_maps.py                   # الخرائط الذهني�
 
 ## English summary
 
-Companion repository for the Arabic book *The Game of Industrial Engineering in Three Cases* by Ramiz Assaf. It holds the 21 synthetic CSV files behind the three cases (a hospital sterilizer in Nablus, a bottle-cap quality problem in Riyadh, a galvanizing constraint in Sohar), the fixed-seed generators that recreate them byte for byte, and the scripts that reproduce every number, table and figure in the book. Code: MIT. Data: CC BY 4.0.
+Companion repository for the Arabic book *The Game of Industrial Engineering in Three Cases* by Ramiz Assaf. It holds the 21 synthetic CSV files behind the three cases (a hospital sterilizer in Nablus, a bottle-cap quality problem in Riyadh, a galvanizing constraint in Sohar), the fixed-seed generators that recreate them byte for byte, and the scripts that reproduce every number, table and figure in the book. The full book is free to download: https://ramizassaf.github.io/ie-three-cases/ . Code: MIT. Data: CC BY 4.0.
